@@ -40,8 +40,7 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 판매 수익, 거래량, 총량
-<h3 align="center"><img width="646" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/eed3ee9f-9200-4191-8725-5dfe46c14bfd">
-</h3>
+<h3 align="center"><img width="646" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/eed3ee9f-9200-4191-8725-5dfe46c14bfd"></h3>
 
 * Year, Month, Payment Method, Shoping Mall 별 판매 수익, 거래량, 총량 값을 나타내도록 필터를 생성<br>
 
