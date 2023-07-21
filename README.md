@@ -40,14 +40,14 @@
 
 # 📊 EDA(탐색적 데이터 분석)
 ## 1) 판매 수익, 거래량, 총량
-<h3 align="center"><img width="646" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/eed3ee9f-9200-4191-8725-5dfe46c14bfd"></h3>
+<h3><img width="646" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/eed3ee9f-9200-4191-8725-5dfe46c14bfd"></h3>
 
 * Year, Month, Payment Method, Shoping Mall 별 판매 수익, 거래량, 총량 값을 나타내도록 필터를 생성<br>
 
 <br><br>
 
 ## 2) 연월별 판매 거래량 추세
-<h3 align="center"><img width="558" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/54eb0777-7a80-4243-868a-d333bc10358c"></h3>
+<h3><img width="558" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/54eb0777-7a80-4243-868a-d333bc10358c"></h3>
 
 
 * 거래량이 3000 ~ 4000 사이를 벗어나지 않아 안정적인 거래량을 띰<br>
@@ -59,7 +59,7 @@
 <br><br>
 
 ## 3) 판매 수익률이 가장 높은 상위 5개 제품
-<h3 align="center"><img width="795" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/beae3f31-a0d4-4e6e-8195-448da86d990a">
+<h3><img width="795" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/beae3f31-a0d4-4e6e-8195-448da86d990a">
 </h3>
 
 * Clothing-1, Clothing-6941, Shoes-1, Technology-1, Shoes-2014에 해당하는 제품들이 수익률이 가장 높은 상위 5개 제품에 해당됨<br>
@@ -74,7 +74,7 @@
 <br><br>
 
 ## 4) 연간 판매 변화율
-<h3 align="center"><img width="269" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/ce20db20-c960-4a33-8ef0-1ccb0566dc91">
+<h3><img width="269" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/ce20db20-c960-4a33-8ef0-1ccb0566dc91">
 </h3>
 
 * 2021년에는 3월부터 성장률이 회복되었다가 6, 8, 9, 11월에 성장률이 급감<br>
@@ -86,7 +86,7 @@
 <br><br>
 
 ## 5) 나이에 의한 판매 수익
-<h3 align="center"><img width="300" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/dfef7796-8865-48c3-bbdc-4beecce3da29">
+<h3><img width="300" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/dfef7796-8865-48c3-bbdc-4beecce3da29">
 </h3>
 
 * 돈을 벌지 않는 청소년 고객은 다른 나이대 고객보다 적은 판매 수익을 띰<br>
