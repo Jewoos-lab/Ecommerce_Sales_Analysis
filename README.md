@@ -101,4 +101,4 @@
 <h3 align="center"><img width="1120" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/6b8fa907-c4bc-4362-a853-74a2f76bbf57">
 </h3>
 
-[태블로 바로가기] : [https://public.tableau.com/app/profile/heegu.lee/viz/EcommerceSalesanalysis/1]
+[태블로 바로가기] : [https://public.tableau.com/app/profile/.19862529/viz/Ecommerce_Sales_Analysis/1]
