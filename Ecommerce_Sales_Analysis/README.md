@@ -62,7 +62,7 @@
 <h3><img width="795" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/beae3f31-a0d4-4e6e-8195-448da86d990a">
 </h3>
 
-* Clothing-1, Clothing-6941, Shoes-1, Technology-1, Shoes-2014에 해당하는 제품들이 수익률이 가장 높은 상위 5개 제품에 해당됨<br>
+* Clothing-4, Clothing-5, Shoes-2, Technology-1, Shoes-3에 해당하는 제품들이 수익률이 가장 높은 상위 5개 제품에 해당됨<br>
 * 옷과 신발 등의 의류 제품들이 수익률이 높다는 것을 확인할 수 있음<br>
 
 * 의류 품목을 주된 제품으로 선정한다면 보다 높은 수익률을 얻을 수 있음<br>
