@@ -47,7 +47,7 @@
 <br><br>
 
 ## 2) 연월별 판매 거래량 추세
-<h3 align="center"><img width="558" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/54eb0777-7a80-4243-868a-d333bc10358c">/h3>
+<h3 align="center"><img width="558" alt="image" src="https://github.com/Jewoos-lab/Ecommerce_Sales_Analysis/assets/86662870/54eb0777-7a80-4243-868a-d333bc10358c"></h3>
 
 
 * 거래량이 3000 ~ 4000 사이를 벗어나지 않아 안정적인 거래량을 띰<br>
