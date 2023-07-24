@@ -314,7 +314,8 @@
 <br><br>
 
 # 📈 최종 대시보드
-<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/fc879c39-6486-476c-a9b8-860e4b9fce2f)
+<h3 align="center"><img width="472" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/0ba3b4e6-8638-49f4-973a-b37abbc4fadb">
+
 </h3>
 
 [태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/PaidSearchMarketingDashboard_16900438709420/Dashboard
