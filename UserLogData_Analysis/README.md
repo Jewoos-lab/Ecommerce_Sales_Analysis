@@ -256,7 +256,8 @@
 
 <br>
 
-<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/5c664768-288c-47ea-b713-002f8e237c59)
+<h3 align="center"><img width="497" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/a0cc2e8c-5033-48f3-a163-20b43a71678c">
+
 </h3>
 
 * 정확한 매치 키워드로 보았을 때, 가장 높은 총 전환을 기록한 광고 그룹은 "promos"이며, 그 뒤를 이어 "coupons"가 따랐음, 모바일 기기가 가장 많이 사용됨
@@ -279,7 +280,8 @@
 
 <br>
 
-<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/9a80b973-c899-4dae-b054-d694434cf610)
+<h3 align="center"><img width="719" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/2af69e3e-8432-43f9-af11-e13326ac4a8c">
+
 /h3>
 
 * 전체적으로, 가장 높은 CTR(클릭률)은 광고 그룹 쿠폰이 35.75%, 프로모션은 35.45%, 그리고 할인은 27.45%로 모바일 기기에서 나타났으며, 넓은 매치 키워드와의 일치율이 1:1인 경우 CTR은 38.7%입니다. 캠페인 월별로 볼 때, 가장 높은 CTR은 9월에 있었음
