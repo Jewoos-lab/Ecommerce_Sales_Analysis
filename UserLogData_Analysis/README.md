@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>📝 Tableau 활용 개인 프로젝트<br><br>
-   ✍ 사용자 로그데이터를 활용한 마케팅 분석</h1>
+   ✍ 2021년 사용자 로그데이터를 활용한 마케팅 분석</h1>
 </div>
 
 <h4> 💭 Language : Python <br><br>
@@ -77,7 +77,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/27b5388e-3aeb-4c0d-8e89-af0df05af91a"></h3>
+<h3 align="center"><img width="304" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/70240882-f611-4bf4-8bd8-a0c0aab0600e">
+</h3>
 
 <br>
 
@@ -91,7 +92,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/45d6b6c7-4000-420a-9929-7eaeda787498"></h3>
+<h3 align="center"><img width="308" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/d6b38047-4d94-4158-974a-42ed266ff39b">
+</h3>
 
 <br>
 
@@ -105,7 +107,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/fd01c073-6463-40bb-a797-387f6fa14250"></h3>
+<h3 align="center"><img width="305" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/7eab01fe-c4e9-4666-9e9b-efbf7365c276">
+</h3>
 
 <br>
 
@@ -119,7 +122,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/9eef675a-9305-43d7-81c0-75d9c22ccb3b"></h3>
+<h3 align="center"><img width="307" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/cf90a4f7-e043-4092-b4fa-adc601b34902">
+</h3>
 
 <br>
 
@@ -139,7 +143,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/8ea0f63e-da09-4321-8cb7-339526061ba1"></h3>
+<h3 align="center"><img width="286" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/7b68d05b-bc02-4c44-9f3e-3a2896e9489c">
+</h3>
 
 <br>
 
@@ -155,7 +160,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/1a63c9ca-0b4b-4493-905c-b5a56c83c4fe"></h3>
+<h3 align="center"><img width="303" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/b958bdfa-c452-4419-8bbf-a70a2da4812f">
+</h3>
 
 <br>
 
@@ -177,7 +183,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/07127626-bb89-4229-ad4f-68688c8a7f27"></h3>
+<h3 align="center"><img width="512" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/25ef4212-7d83-4536-8183-5b7b772057a1">
+</h3>
 
 <br>
 
@@ -193,7 +200,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/cbc010a5-c3a3-41fe-8ceb-8336cc95f5cc"></h3>
+<h3 align="center"><img width="495" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/37de02df-ca47-49ae-937a-933dff0c812a">
+</h3>
 
 <br>
 
@@ -215,7 +223,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/4805c866-2e39-42ff-aae8-e115796e05a5"></h3>
+<h3 align="center"><img width="486" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/30b843be-a71e-4459-aa7f-730ee4f2c8b7">
+</h3>
 
 <br>
 
@@ -247,7 +256,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/2407f8d7-1bdc-449b-8545-06274cc99225"></h3>
+<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/5c664768-288c-47ea-b713-002f8e237c59)
+</h3>
 
 * 정확한 매치 키워드로 보았을 때, 가장 높은 총 전환을 기록한 광고 그룹은 "promos"이며, 그 뒤를 이어 "coupons"가 따랐음, 모바일 기기가 가장 많이 사용됨
 
@@ -269,7 +279,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/5aed3b8c-a47d-48d2-8938-aa99f5a3cc6a"></h3>
+<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/9a80b973-c899-4dae-b054-d694434cf610)
+/h3>
 
 * 전체적으로, 가장 높은 CTR(클릭률)은 광고 그룹 쿠폰이 35.75%, 프로모션은 35.45%, 그리고 할인은 27.45%로 모바일 기기에서 나타났으며, 넓은 매치 키워드와의 일치율이 1:1인 경우 CTR은 38.7%입니다. 캠페인 월별로 볼 때, 가장 높은 CTR은 9월에 있었음
 
@@ -303,6 +314,7 @@
 <br><br>
 
 # 📈 최종 대시보드
-<h3 align="center"><img src= https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/1c4089f9-3425-4e13-bab2-4a8bf518e087></h3>
+<h3 align="center">![image](https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/fc879c39-6486-476c-a9b8-860e4b9fce2f)
+</h3>
 
 [태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/PaidSearchMarketingDashboard_16900438709420/Dashboard
