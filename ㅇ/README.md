@@ -1,5 +1,5 @@
 # Ecommerce_Paid_Search_Marketing_Analysis
-📊 Tableau를 활용한 유료 검색 마케팅 분석
+
 <div align="center">
   <h1>📝 Tableau 활용 개인 프로젝트<br><br>
    ✍ 사용자 로그데이터를 활용한 마케팅 분석</h1>
