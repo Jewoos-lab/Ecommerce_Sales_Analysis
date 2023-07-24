@@ -246,7 +246,8 @@
 
 <br>
 
-<h3 align="center"><img src= "https://github.com/LHG-Git/Ecommerce_Paid_Search_Marketing_Analysis/assets/100845169/a3059b02-bd97-4eb3-8757-f0a37da39f29"></h3>
+<h3 align="center"><img width="497" alt="image" src="https://github.com/Jewoos-lab/Tableau_Analysis/assets/86662870/772add4a-60b9-4e8a-8055-a07190a5b0f9">
+</h3>
 
 <br>
 
