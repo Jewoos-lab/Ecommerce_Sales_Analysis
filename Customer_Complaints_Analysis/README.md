@@ -176,4 +176,4 @@
 # 📈 최종 대시보드
 <h3><img src= https://github.com/LHG-Git/Ecommerce_Consumer_Compliant_Analysis/assets/100845169/8739e449-6095-42ad-b02e-73966ffaee6c></h3>
 
-[태블로 바로가기] : https://public.tableau.com/app/profile/heegu.lee/viz/_16907084424620/1
+[태블로 바로가기] : https://public.tableau.com/app/profile/.19862529/viz/CustomerComplaints_16906501153880/Overview
