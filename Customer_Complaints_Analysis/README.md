@@ -8,14 +8,6 @@
 <h4> 🛠  Tool : Tableau <br><br>
      📅 진행기간 : 2023.07.31 ~ 2023.08.07</h4>
      
-### 👨‍👦‍👦 팀원소개
-<table>
-<tbody>
-  <tr>
-    <td align="left"><img src="" width="20px;" alt=""/><br /><b>팀원 : 이희구</b></a><br /></td>
-   <tr/>
-</tbody>
-</table>
 <br>
 
 # 💡 분석 기획
